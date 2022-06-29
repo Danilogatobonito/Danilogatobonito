@@ -1,12 +1,18 @@
 - # Sobre mim
 
-- 👋 Hi, I’m @Danilogatobonito
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+gosto de strogonoff
+e dinossauro tb
+tenho 15 anos e afins
 
-<!---
+AAAAAAAAAAAAAAAAAAAAAAA
+
+
+
+
+
+
+
+
 Danilogatobonito/Danilogatobonito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
